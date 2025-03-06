@@ -1,0 +1,1 @@
+.game-container{display:grid;grid-template-rows:repeat(10,30px);gap:2px;justify-content:center;margin-top:20px}h2{text-align:left;font-size:2em;margin-top:-20px}.row{display:grid;grid-template-columns:repeat(10,30px);gap:2px}.cell{width:30px;height:30px;background-color:#ddd;border-radius:5px}.snake{background-color:green}.food{background-color:red}
