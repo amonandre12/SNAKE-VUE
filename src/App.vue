@@ -54,7 +54,7 @@ const moveSnake = () => {
     return;
   }
 
-  snake.value.unshift(head); // Ajouter une nouvelle tête
+  snake.value.unshift(head); 
 
   // Vérifier si le serpent mange la nourriture
 
